@@ -32,7 +32,7 @@ h1 {
 
 a,
 a:hover {
-    text-decoration: lightskyblue;
+    text-decoration: rgb(250, 135, 141);
 }
 
 h2 {
@@ -141,6 +141,7 @@ h4.image-text {
 }
 
 .aside {
+    position: relative;
     text-align: center;
     margin-top: 50px;
     background-color: #fff; 
