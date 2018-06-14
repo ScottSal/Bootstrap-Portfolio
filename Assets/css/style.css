@@ -121,7 +121,7 @@ div.portfolio {
 }
 
 div.portfolio:hover {
-    box-shadow: 0 0 10px 3px purple;
+    box-shadow: 0 0 10px 5px purple;
 }
 
 img.portfolio-image {
@@ -149,7 +149,10 @@ h4.image-text {
     width: 40px;  
 }
 
-
+img.social-logo:hover {
+    box-shadow: 0 0 10px 5px lightcoral;
+    
+}
 
 @media screen and (min-width: 576px) {
     img.profile {
