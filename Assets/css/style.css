@@ -12,13 +12,15 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 400;
 }
 
 section {
     background-color: #fff;
+    border: solid 1px #ccc;
 }
 
 h1 {
@@ -146,12 +148,17 @@ h4.image-text {
     margin-top: 50px;
     background-color: #fff; 
     height: 100px;
-    width: 40px;  
+    width: 50px;
+    border: solid 1px #ccc;  
+}
+
+img.social-logo {
+    height: 55px;
+    width: 55px;
 }
 
 img.social-logo:hover {
     box-shadow: 0 0 10px 5px lightcoral;
-    
 }
 
 @media screen and (min-width: 576px) {
