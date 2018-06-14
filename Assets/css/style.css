@@ -42,8 +42,14 @@ h2 {
     border-bottom: 2px solid #ccc;
 }
 
+h3 {
+    color: #4aaaa5;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #ccc;
+}
+
 p a {
-    color: #4aaaa5
+    color: #4aaaa5;
 }
 
 nav a {
@@ -133,6 +139,16 @@ h4.image-text {
     background-color: #4aaaa5;
     color: #fff;
 }
+
+.aside {
+    text-align: center;
+    margin-top: 50px;
+    background-color: #fff; 
+    height: 100px;
+    width: 40px;  
+}
+
+
 
 @media screen and (min-width: 576px) {
     img.profile {
