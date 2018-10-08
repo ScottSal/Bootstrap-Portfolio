@@ -20,7 +20,7 @@ h3 {
 }
 
 section {
-    background-color: slateblue;
+    background-color: rgb(120, 103, 228);
     border: solid 1px #ccc;
 }
 
@@ -39,14 +39,14 @@ a:hover {
 }
 
 h2 {
-    color: #4aaaa5;
+    color: #82d6d2;
     font-size: 2rem;
     padding: 1rem 0;
     border-bottom: 2px solid #ccc;
 }
 
 h3 {
-    color: #4aaaa5;
+    color: #82d6d2;
     font-size: 1.5rem;
     border-bottom: 2px solid #ccc;
 }
@@ -150,7 +150,7 @@ h4.image-text {
     position: relative;
     text-align: center;
     margin-top: 25px;
-    background-color: slateblue; 
+    background-color: rgb(120, 103, 228); 
     height: 100px;
     width: 50px;
     border: solid 1px #ccc;  
